@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T08:38:02.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="h6ejAU5JB0KrWPzEKlcO" type="github"><diagram id="jvYYsw6fZvV0kwZjx6TH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T08:42:45.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ust5DInZeKW5RrZEaatW" version="14.6.13" type="github">
+  <diagram id="jvYYsw6fZvV0kwZjx6TH" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="GITLAB" id="z6kZEBDIO18L74ZVLqRq-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+            <mxGeometry x="350" y="490" width="80" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-2" value="Management, PM, Security, Business Stakeholders&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="380" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-5" value="Projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-8" value="Issues" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z6kZEBDIO18L74ZVLqRq-9" value="Risks" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
